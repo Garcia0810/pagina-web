@@ -28,12 +28,16 @@
     width: 20%;
     height: 1000px;
     background-color: hotpink;
+    text-align: center;
+    color: deepskyblue;
+    font-size: 30px;
+
 }
 .centro{
     width: 60%;
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: gold;
+    color: dodgerblue;
     text-align: center;
     height: 1000px;
     background-color: crimson
