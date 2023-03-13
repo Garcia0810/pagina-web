@@ -9,8 +9,9 @@
     background-color: blue;
 
     font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: crimson;
+     font-family: fantasy;
+    background-color: mediumblue;
+    color: mistyrose;
     text-align: center;
 }
 .menu{
@@ -23,30 +24,28 @@
 width: 100px;
 height: 48px;
 background-color: black;
+color: mistyrose;
 margin: 2px;
-}
-.Ingles{
-    width: 100px;
-    height: 48px;
-    background-color: black;
-    margin: 2px;
 }
 .Sociales{
    width: 100px; 
    height: 48px;
    background-color: black;
+   color: mistyrose;
    margin: 2px;
 }
 .Matematicas{
     width: 100px;
     height: 48px;
     background-color: black;
+    color: mistyrose;
     margin: 2px;
 }
 .Biologia{
     width: 100px;
     height: 48px;
     background-color: black;
+    color: mistyrose;
     margin: 2px;
 }
 .contenedor2{
@@ -60,7 +59,7 @@ margin: 2px;
     height: 1000px;
     background-color: hotpink;
     text-align: center;
-    color: deepskyblue;
+    color: mistyrose;
     font-size: 30px;
 
 }
@@ -68,7 +67,7 @@ margin: 2px;
     width: 60%;
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: dodgerblue;
+    color: mistyrose;
     text-align: center;
     height: 1000px;
     background-color: crimson
