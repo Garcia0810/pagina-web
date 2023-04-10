@@ -6,18 +6,18 @@
 .encabezado{
     width: 100%;
     height: 150px;
-    background-color: blue;
+    background-color:darkblue;
 
-    font-size: 40px;
+     font-size: 40px;
      font-family: fantasy;
-    background-color: mediumblue;
+    background-color: cadetblue;
     color: mistyrose;
     text-align: center;
 }
 .menu{
     width:100%;
     height: 50px;
-    background-color: aqua;
+    background-color: darksalmon;
     display: flex
 }
 .Tecnologia{
