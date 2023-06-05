@@ -6,7 +6,7 @@ ul, ol{
     list-style: none;
 }
 .botones li a{
-    background-color: rgb(5, 247, 247);
+    background-color: rgba(10, 181, 255, 0.813);
     color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 10px 10px;
