@@ -23,7 +23,20 @@
     
     }
     
+    .FondoMatematicas{
     
+        background-image: url("fondomate.jpg");    
+    background-repeat: no-repeat;
+    
+    }
+    
+    .FondoBiologia{
+    
+        background-image: url("fondobiologia.jpg");    
+    background-repeat: no-repeat;
+    
+    }
+
     .img{
     
     position: relative;
@@ -115,5 +128,80 @@
         
         
         
+      } 
+        
+      .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+         
+        
         }
         
+        
+        .textomate{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 270px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagenbiolo{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("genetica.jpg");
+            
+            }
+            
+            
+            
+            .textobiolo{
+            
+            text-align: justify;
+            
+            color: lime;
+           
+            font-size: 25px;
+            
+            
+            
+          } 
