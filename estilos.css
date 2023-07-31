@@ -12,13 +12,13 @@
     
     body{
     
-        background-image: url("moon-2048727_1280.jpg");    
+        background-image: url("jpg");    
     background-repeat: no-repeat;
     
     }
    .FondoSociales{
     
-        background-image: url("coach..jpg");    
+        background-image: url(".jpg");    
     background-repeat: no-repeat;
     
     }
@@ -94,8 +94,26 @@
         
         }
         
+        .imagentecnolo{
+        
          
         
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 320px;
+            
+            width: 380px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("circuitos.jpg");
+             
+        }
+
         .imagentecno{
         
          
@@ -104,18 +122,29 @@
         
         float:left;
         
-        height: 200px;
+        height: 320px;
         
-        width: 260px;
+        width: 380px;
         
         margin-left: 5px;
         
         margin-right:5px;
         
-        background-image: url("superrrr.png");
+        background-image: url("tecnologia.jpg");
         
         }
         
+        .textotecnolo{
+        
+            text-align: justify;
+            
+            color: aliceblue;
+            
+            font-size: 25px;
+            
+            
+            
+          } 
         
         
         .textotecno{
@@ -205,3 +234,117 @@
             
             
           } 
+
+          .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 270px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagensoci{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 350px;
+            
+            width: 380px;
+            
+            margin-left:  5px;
+            
+            margin-right:5px;
+            
+            background-image: url("sociales.jpg");
+            
+            }
+            
+            
+            .textosoci{
+            
+            text-align: justify;
+            
+            color: lime;
+           
+            font-size: 25px;
+            
+            
+            
+          } 
+          .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 310px;
+            
+             
+            
+            }
+            
+            .imagenreligi{
+            
+             
+            
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 320px;
+                
+                width: 380px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("hindu.jpg");
+                 
+            }
+    
+            .imagenreli{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 220px;
+            
+            width: 280px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("hinduismo.jpg");
+            
+            }
+            
+            .textoreli{
+            
+                text-align: justify;
+                
+                color: black;
+                
+                font-size: 25px;
+                
+                
+                
+              } 
