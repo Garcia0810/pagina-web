@@ -351,7 +351,7 @@
 
               .textotecnologia3{
         
-                text-align: justify;
+                text-align: justify; 
                 
                 color: rgb(0, 0, 0);
                 
@@ -360,4 +360,56 @@
                 
                 
                 }
+
+                .textomatematicas3{
         
+                  text-align: justify; 
+                  
+                  color: rgb(0, 0, 0);
+                  
+                  font-size: 20px;
+                  
+                  
+                  
+                  }
+
+                  .imagensoci3{
+        
+         
+        
+                    background-repeat: no-repeat;
+                    
+                    float:center;
+                    
+                    height: 2000px;
+                    
+                    width: 2000px;
+                  
+                    margin-left: 50px;
+                    
+                    margin-right:5opx;
+                    
+                    background-image: url("Revolucion\ industrial.jpg");
+                     
+                  }
+
+                  .imagenmate3{
+            
+             
+            
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 320px;
+                    
+                    width: 380px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url(factorizacion.jpg)
+                  }
+                        
+                  
